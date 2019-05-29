@@ -1,0 +1,26 @@
+h1 {
+    color: rgba(238, 53, 53, 0.767);
+}
+
+.error{
+    border: 1px solid red;
+}
+
+
+
+
+.myItem{
+    margin: 2.5px 1px 0 0;
+    text-align: justify;
+
+}
+
+#btnSave {
+    position: absolute;
+   
+}
+
+.myInput{
+    width: 250px;
+    height: 31px;
+}
